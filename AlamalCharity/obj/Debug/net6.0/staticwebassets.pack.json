@@ -1,0 +1,1989 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AlamalCharity.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AlamalCharity.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\css\\_animated.scss",
+      "PackagePath": "staticwebassets\\css\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\css\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\css\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\css\\_core.scss",
+      "PackagePath": "staticwebassets\\css\\_core.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\css\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\css\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\css\\_icons.scss",
+      "PackagePath": "staticwebassets\\css\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\css\\_larger.scss",
+      "PackagePath": "staticwebassets\\css\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\css\\_list.scss",
+      "PackagePath": "staticwebassets\\css\\_list.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\css\\_mixins.scss",
+      "PackagePath": "staticwebassets\\css\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\css\\_path.scss",
+      "PackagePath": "staticwebassets\\css\\_path.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\css\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\css\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\css\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\css\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\css\\_stacked.scss",
+      "PackagePath": "staticwebassets\\css\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\css\\_variables.scss",
+      "PackagePath": "staticwebassets\\css\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\css\\font-awesome.css.map",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css.map"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\css\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\css\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\css\\login_style.css",
+      "PackagePath": "staticwebassets\\css\\login_style.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\css\\simple-line-icons.css",
+      "PackagePath": "staticwebassets\\css\\simple-line-icons.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\css\\simple-line-icons.min.css",
+      "PackagePath": "staticwebassets\\css\\simple-line-icons.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\css\\simple-line-icons.scss",
+      "PackagePath": "staticwebassets\\css\\simple-line-icons.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\dest\\style.css",
+      "PackagePath": "staticwebassets\\dest\\style.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\fonts\\Sahel-Black-FD.eot",
+      "PackagePath": "staticwebassets\\fonts\\Sahel-Black-FD.eot"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\fonts\\Sahel-Black-FD.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Sahel-Black-FD.ttf"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\fonts\\Sahel-Black-FD.woff",
+      "PackagePath": "staticwebassets\\fonts\\Sahel-Black-FD.woff"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\fonts\\Sahel-Bold-FD.eot",
+      "PackagePath": "staticwebassets\\fonts\\Sahel-Bold-FD.eot"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\fonts\\Sahel-Bold-FD.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Sahel-Bold-FD.ttf"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\fonts\\Sahel-Bold-FD.woff",
+      "PackagePath": "staticwebassets\\fonts\\Sahel-Bold-FD.woff"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\fonts\\Sahel-FD.eot",
+      "PackagePath": "staticwebassets\\fonts\\Sahel-FD.eot"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\fonts\\Sahel-FD.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Sahel-FD.ttf"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\fonts\\Sahel-FD.woff",
+      "PackagePath": "staticwebassets\\fonts\\Sahel-FD.woff"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\fonts\\Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets\\fonts\\Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\fonts\\Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets\\fonts\\Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\fonts\\Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\fonts\\Simple-Line-Icons.woff",
+      "PackagePath": "staticwebassets\\fonts\\Simple-Line-Icons.woff"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\fonts\\Simple-Line-Icons.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Simple-Line-Icons.woff2"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\gruntfiles\\Gruntfile.js",
+      "PackagePath": "staticwebassets\\gruntfiles\\Gruntfile.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\gruntfiles\\package.json",
+      "PackagePath": "staticwebassets\\gruntfiles\\package.json"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\Alamal.jpg",
+      "PackagePath": "staticwebassets\\img\\Alamal.jpg"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\Alamal.svg",
+      "PackagePath": "staticwebassets\\img\\Alamal.svg"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\avatars\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\avatars\\1.jpg"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\avatars\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\avatars\\2.jpg"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\avatars\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\avatars\\3.jpg"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\avatars\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\avatars\\4.jpg"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\avatars\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\avatars\\5.jpg"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\avatars\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\avatars\\6.jpg"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\avatars\\7.jpg",
+      "PackagePath": "staticwebassets\\img\\avatars\\7.jpg"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\avatars\\8.jpg",
+      "PackagePath": "staticwebassets\\img\\avatars\\8.jpg"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\coreui-logotyp.png",
+      "PackagePath": "staticwebassets\\img\\coreui-logotyp.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\ASEAN.png",
+      "PackagePath": "staticwebassets\\img\\flags\\ASEAN.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Afghanistan.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Afghanistan.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\African Union.png",
+      "PackagePath": "staticwebassets\\img\\flags\\African Union.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Albania.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Albania.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Algeria.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Algeria.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\American Samoa.png",
+      "PackagePath": "staticwebassets\\img\\flags\\American Samoa.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Andorra.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Andorra.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Angola.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Angola.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Anguilla.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Anguilla.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Antarctica.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Antarctica.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Antigua & Barbuda.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Antigua & Barbuda.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Arab League.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Arab League.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Argentina.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Argentina.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Armenia.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Armenia.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Aruba.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Aruba.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Australia.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Australia.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Austria.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Austria.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Azerbaijan.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Azerbaijan.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Bahamas.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Bahamas.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Bahrain.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Bahrain.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Bangladesh.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Bangladesh.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Barbados.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Barbados.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Belarus.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Belarus.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Belgium.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Belgium.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Belize.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Belize.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Benin.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Benin.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Bermuda.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Bermuda.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Bhutan.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Bhutan.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Bolivia.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Bolivia.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Bosnia & Herzegovina.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Bosnia & Herzegovina.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Botswana.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Botswana.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Brazil.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Brazil.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Brunei.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Brunei.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Bulgaria.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Bulgaria.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Burkina Faso.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Burkina Faso.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Burundi.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Burundi.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\CARICOM.png",
+      "PackagePath": "staticwebassets\\img\\flags\\CARICOM.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\CIS.png",
+      "PackagePath": "staticwebassets\\img\\flags\\CIS.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Cambodja.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Cambodja.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Cameroon.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Cameroon.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Canada.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Canada.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Cape Verde.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Cape Verde.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Cayman Islands.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Cayman Islands.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Central African Republic.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Central African Republic.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Chad.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Chad.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Chile.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Chile.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\China.png",
+      "PackagePath": "staticwebassets\\img\\flags\\China.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Colombia.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Colombia.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Commonwealth.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Commonwealth.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Comoros.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Comoros.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Congo-Brazzaville.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Congo-Brazzaville.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Congo-Kinshasa(Zaire).png",
+      "PackagePath": "staticwebassets\\img\\flags\\Congo-Kinshasa(Zaire).png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Cook Islands.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Cook Islands.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Costa Rica.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Costa Rica.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Cote d'Ivoire.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Cote d'Ivoire.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Croatia.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Croatia.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Cuba.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Cuba.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Cyprus.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Cyprus.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Czech Republic.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Czech Republic.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Denmark.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Denmark.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Djibouti.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Djibouti.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Dominica.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Dominica.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Dominican Republic.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Dominican Republic.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Ecuador.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Ecuador.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Egypt.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Egypt.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\El Salvador.png",
+      "PackagePath": "staticwebassets\\img\\flags\\El Salvador.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\England.png",
+      "PackagePath": "staticwebassets\\img\\flags\\England.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Equatorial Guinea.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Equatorial Guinea.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Eritrea.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Eritrea.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Estonia.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Estonia.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Ethiopia.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Ethiopia.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\European Union.png",
+      "PackagePath": "staticwebassets\\img\\flags\\European Union.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Faroes.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Faroes.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Fiji.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Fiji.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Finland.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Finland.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\France.png",
+      "PackagePath": "staticwebassets\\img\\flags\\France.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Gabon.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Gabon.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Gambia.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Gambia.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Georgia.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Georgia.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Germany.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Germany.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Ghana.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Ghana.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Gibraltar.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Gibraltar.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Greece.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Greece.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Greenland.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Greenland.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Grenada.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Grenada.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Guadeloupe.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Guadeloupe.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Guam.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Guam.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Guatemala.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Guatemala.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Guernsey.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Guernsey.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Guinea-Bissau.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Guinea-Bissau.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Guinea.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Guinea.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Guyana.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Guyana.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Haiti.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Haiti.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Honduras.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Honduras.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Hong Kong.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Hong Kong.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Hungary.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Hungary.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Iceland.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Iceland.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\India.png",
+      "PackagePath": "staticwebassets\\img\\flags\\India.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Indonezia.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Indonezia.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Iran.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Iran.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Iraq.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Iraq.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Ireland.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Ireland.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Islamic Conference.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Islamic Conference.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Isle of Man.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Isle of Man.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Israel.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Israel.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Italy.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Italy.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Jamaica.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Jamaica.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Japan.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Japan.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Jersey.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Jersey.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Jordan.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Jordan.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Kazakhstan.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Kazakhstan.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Kenya.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Kenya.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Kiribati.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Kiribati.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Kosovo.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Kosovo.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Kuwait.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Kuwait.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Kyrgyzstan.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Kyrgyzstan.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Laos.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Laos.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Latvia.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Latvia.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Lebanon.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Lebanon.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Lesotho.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Lesotho.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Liberia.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Liberia.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Libya.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Libya.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Liechtenshein.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Liechtenshein.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Lithuania.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Lithuania.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Luxembourg.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Luxembourg.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Macao.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Macao.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Macedonia.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Macedonia.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Madagascar.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Madagascar.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Malawi.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Malawi.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Malaysia.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Malaysia.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Maldives.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Maldives.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Mali.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Mali.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Malta.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Malta.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Marshall Islands.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Marshall Islands.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Martinique.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Martinique.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Mauritania.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Mauritania.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Mauritius.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Mauritius.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Mexico.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Mexico.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Micronesia.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Micronesia.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Moldova.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Moldova.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Monaco.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Monaco.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Mongolia.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Mongolia.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Montenegro.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Montenegro.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Montserrat.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Montserrat.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Morocco.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Morocco.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Mozambique.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Mozambique.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Myanmar(Burma).png",
+      "PackagePath": "staticwebassets\\img\\flags\\Myanmar(Burma).png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\NATO.png",
+      "PackagePath": "staticwebassets\\img\\flags\\NATO.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Namibia.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Namibia.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Nauru.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Nauru.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Nepal.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Nepal.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Netherlands Antilles.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Netherlands Antilles.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Netherlands.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Netherlands.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\New Caledonia.png",
+      "PackagePath": "staticwebassets\\img\\flags\\New Caledonia.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\New Zealand.png",
+      "PackagePath": "staticwebassets\\img\\flags\\New Zealand.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Nicaragua.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Nicaragua.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Niger.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Niger.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Nigeria.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Nigeria.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\North Korea.png",
+      "PackagePath": "staticwebassets\\img\\flags\\North Korea.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Northern Cyprus.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Northern Cyprus.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Northern Ireland.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Northern Ireland.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Norway.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Norway.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\OPEC.png",
+      "PackagePath": "staticwebassets\\img\\flags\\OPEC.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Olimpic Movement.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Olimpic Movement.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Oman.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Oman.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Pakistan.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Pakistan.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Palau.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Palau.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Palestine.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Palestine.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Panama.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Panama.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Papua New Guinea.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Papua New Guinea.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Paraguay.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Paraguay.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Peru.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Peru.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Philippines.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Philippines.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Poland.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Poland.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Portugal.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Portugal.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Puerto Rico.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Puerto Rico.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Qatar.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Qatar.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Red Cross.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Red Cross.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Reunion.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Reunion.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Romania.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Romania.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Russia.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Russia.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Rwanda.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Rwanda.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Saint Lucia.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Saint Lucia.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Samoa.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Samoa.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\San Marino.png",
+      "PackagePath": "staticwebassets\\img\\flags\\San Marino.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Sao Tome & Principe.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Sao Tome & Principe.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Saudi Arabia.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Saudi Arabia.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Scotland.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Scotland.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Senegal.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Senegal.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Serbia(Yugoslavia).png",
+      "PackagePath": "staticwebassets\\img\\flags\\Serbia(Yugoslavia).png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Seychelles.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Seychelles.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Sierra Leone.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Sierra Leone.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Singapore.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Singapore.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Slovakia.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Slovakia.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Slovenia.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Slovenia.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Solomon Islands.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Solomon Islands.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Somalia.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Somalia.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Somaliland.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Somaliland.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\South Africa.png",
+      "PackagePath": "staticwebassets\\img\\flags\\South Africa.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\South Korea.png",
+      "PackagePath": "staticwebassets\\img\\flags\\South Korea.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Spain.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Spain.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Sri Lanka.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Sri Lanka.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\St Kitts & Nevis.png",
+      "PackagePath": "staticwebassets\\img\\flags\\St Kitts & Nevis.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\St Vincent & the Grenadines.png",
+      "PackagePath": "staticwebassets\\img\\flags\\St Vincent & the Grenadines.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Sudan.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Sudan.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Suriname.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Suriname.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Swaziland.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Swaziland.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Sweden.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Sweden.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Switzerland.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Switzerland.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Syria.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Syria.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Tahiti(French Polinesia).png",
+      "PackagePath": "staticwebassets\\img\\flags\\Tahiti(French Polinesia).png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Taiwan.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Taiwan.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Tajikistan.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Tajikistan.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Tanzania.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Tanzania.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Thailand.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Thailand.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Timor-Leste.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Timor-Leste.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Togo.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Togo.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Tonga.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Tonga.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Trinidad & Tobago.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Trinidad & Tobago.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Tunisia.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Tunisia.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Turkey.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Turkey.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Turkmenistan.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Turkmenistan.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Turks and Caicos Islands.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Turks and Caicos Islands.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Tuvalu.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Tuvalu.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\USA.png",
+      "PackagePath": "staticwebassets\\img\\flags\\USA.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Uganda.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Uganda.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Ukraine.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Ukraine.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\United Arab Emirates.png",
+      "PackagePath": "staticwebassets\\img\\flags\\United Arab Emirates.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\United Nations.png",
+      "PackagePath": "staticwebassets\\img\\flags\\United Nations.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\United-Kingdom.png",
+      "PackagePath": "staticwebassets\\img\\flags\\United-Kingdom.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Uruguay.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Uruguay.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Uzbekistan.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Uzbekistan.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Vanutau.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Vanutau.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Vatican City.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Vatican City.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Venezuela.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Venezuela.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Viet Nam.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Viet Nam.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Virgin Islands British.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Virgin Islands British.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Virgin Islands US.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Virgin Islands US.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Wales.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Wales.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Western Sahara.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Western Sahara.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Yemen.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Yemen.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Zambia.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Zambia.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\img\\flags\\Zimbabwe.png",
+      "PackagePath": "staticwebassets\\img\\flags\\Zimbabwe.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\js\\app.js",
+      "PackagePath": "staticwebassets\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\js\\libs\\Chart.min.js",
+      "PackagePath": "staticwebassets\\js\\libs\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\js\\libs\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\libs\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\js\\libs\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\libs\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\js\\libs\\jquery.min.map",
+      "PackagePath": "staticwebassets\\js\\libs\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\js\\libs\\pace.min.js",
+      "PackagePath": "staticwebassets\\js\\libs\\pace.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\js\\libs\\tether.min.js",
+      "PackagePath": "staticwebassets\\js\\libs\\tether.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\js\\views\\charts.js",
+      "PackagePath": "staticwebassets\\js\\views\\charts.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\js\\views\\main.js",
+      "PackagePath": "staticwebassets\\js\\views\\main.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\js\\views\\widgets.js",
+      "PackagePath": "staticwebassets\\js\\views\\widgets.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\_animation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\_custom.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_custom.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\_normalize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_normalize.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\_responsive-embed.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_responsive-embed.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\_tags.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_tags.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\bootstrap-flex.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap-flex.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\mixins\\_navbar-align.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_navbar-align.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\mixins\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\mixins\\_pulls.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_pulls.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\mixins\\_reset-filter.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_reset-filter.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\mixins\\_tab-focus.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_tab-focus.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\mixins\\_tag.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_tag.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\utilities\\_pulls.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_pulls.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\_bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\_bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\_coreui-variables.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\_coreui-variables.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\_main.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\_main.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\_vendors.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\_vendors.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\bootstrap-variables.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\bootstrap-variables.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\bootstrap\\_tags.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\bootstrap\\_tags.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\coreui.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\coreui.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\main\\_animate.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\main\\_animate.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\main\\_aside.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\main\\_aside.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\main\\_avatars.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\main\\_avatars.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\main\\_breadcrumb-menu.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\main\\_breadcrumb-menu.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\main\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\main\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\main\\_callout.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\main\\_callout.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\main\\_charts.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\main\\_charts.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\main\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\main\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\main\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\main\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\main\\_layout.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\main\\_layout.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\main\\_loading.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\main\\_loading.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\main\\_mobile.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\main\\_mobile.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\main\\_navigation.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\main\\_navigation.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\main\\_others.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\main\\_others.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\main\\_switches.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\main\\_switches.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\main\\_temp.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\main\\_temp.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\main\\_typography.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\main\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\main\\_utilities-border.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\main\\_utilities-border.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\main\\_widgets.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\main\\_widgets.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\main\\navigation\\_disabled.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\main\\navigation\\_disabled.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\main\\navigation\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\main\\navigation\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\main\\navigation\\_top.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\main\\navigation\\_top.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\scss\\coreui\\vendors\\chart.js\\chart.scss",
+      "PackagePath": "staticwebassets\\scss\\coreui\\vendors\\chart.js\\chart.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.AlamalCharity.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.AlamalCharity.props",
+      "PackagePath": "build\\AlamalCharity.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AlamalCharity.props",
+      "PackagePath": "buildMultiTargeting\\AlamalCharity.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.AlamalCharity.props",
+      "PackagePath": "buildTransitive\\AlamalCharity.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
