@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Authentication.Cookies;
 using AlamalCharity.Models;
 using AlamalCharity.Data;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using System.Runtime.CompilerServices;
 
 namespace AlamalCharity.Controllers
 {
@@ -16,55 +17,119 @@ namespace AlamalCharity.Controllers
         {
             context = _context;
         }
-        public IActionResult AddClient()
+
+        public IActionResult Index()
         {
-            CLientsModel model = new CLientsModel();
-            List<SelectListItem> famItems = new List<SelectListItem>();
-
-            var query = context.Clients.OrderByDescending(c => c.ID).FirstOrDefault();
-            if (query == null)
-                model.clntID = 1;
-            else
-                model.clntID= query.ID + 1;
-
-            var famList = context.Families.ToList();
-            if (famList!= null)
+            using (context)
             {
-                foreach (var fam in famList)
-                {
-                    var itm = new SelectListItem();
-                    itm.Value = fam.ID.ToString();
-                    itm.Text = fam.FAMILY_NAME;
+                ClientsList model = new ClientsList();
+                var cLients = new List<CLientModel>();
 
-                    famItems.Add(itm);
+                var query = context.Clients.ToList();
+                if (query != null){
+                    foreach (var item in query)
+                    {   
+                        CLientModel cLient = new CLientModel();
+                        cLient.clntID = item.ID;
+                        cLient.clntName = item.CLIENT_NAME;
+                        cLient.clntFamily = item.CLIENT_FAMILY;
+                        cLient.clntMobile = item.CLIENT_MOBILE;
+                        cLient.clntAddDate = item.ADD_DATE;
+                        cLient.clntStatus = item.STATUS;
+
+                        cLients.Add(cLient);
+                    }
+
+                    model.Clients = cLients;
                 }
 
-                model.Families = famItems;
+                return View(model);
             }
+        }
 
-            return View(model);
+        public IActionResult Families()
+        {
+            using (context)
+            {
+                ClientsList model = new ClientsList();
+                var cLients = new List<CLientModel>();
+
+                var query = context.Clients.ToList();
+                if (query != null)
+                {
+                    foreach (var item in query)
+                    {
+                        CLientModel cLient = new CLientModel();
+                        cLient.clntID = item.ID;
+                        cLient.clntName = item.CLIENT_NAME;
+                        cLient.clntFamily = item.CLIENT_FAMILY;
+                        cLient.clntMobile = item.CLIENT_MOBILE;
+                        cLient.clntAddDate = item.ADD_DATE;
+                        cLient.clntStatus = item.STATUS;
+
+                        cLients.Add(cLient);
+                    }
+
+                    model.Clients = cLients;
+                }
+
+                return View(model);
+            }
+        }
+
+        public IActionResult AddClient()
+        {
+            using (context)
+            {
+                CLientModel model = new CLientModel();
+                List<SelectListItem> famItems = new List<SelectListItem>();
+
+                var query = context.Clients.OrderByDescending(c => c.ID).FirstOrDefault();
+                if (query == null)
+                    model.clntID = 1;
+                else
+                    model.clntID = query.ID + 1;
+
+                var famList = context.Families.ToList();
+                if (famList != null)
+                {
+                    foreach (var fam in famList)
+                    {
+                        var itm = new SelectListItem();
+                        itm.Value = fam.FAMILY_NAME;
+                        itm.Text = fam.FAMILY_NAME;
+
+                        famItems.Add(itm);
+                    }
+
+                    model.Families = famItems;
+                }
+                return View(model);
+            }
         }
 
         [HttpPost]
-        public IActionResult AddClient(CLientsModel cLient)
+        public IActionResult AddClient(CLientModel cLient)
         {
-            if (cLient != null)
+            using (context)
             {
-                var clnt = new Data.Models.Clients()
+                if (cLient != null)
                 {
-                    CLIENT_NAME = cLient.clntName,
-                    CLIENT_SURENAME = cLient.clntFamily,
-                    CLIENT_MOBILE=cLient.clntMobile,
-                    ADD_DATE = DateTime.Now,
-                    STATUS = 1
-                };
+                    var clnt = new Data.Models.Clients()
+                    {
+                        CLIENT_NAME = cLient.clntName,
+                        CLIENT_FAMILY = cLient.clntFamily,
+                        CLIENT_MOBILE = cLient.clntMobile,
+                        ADD_DATE = DateTime.Now,
+                        STATUS = 1
+                    };
 
-                context.Clients.Add(clnt);
-                context.SaveChanges();
+                    context.Clients.Add(clnt);
+                    context.SaveChanges();
+                }
+
+                return RedirectToAction("Index", "Clients");
             }
-
-            return RedirectToAction("Index", "Home");
-
         }
     }
 }

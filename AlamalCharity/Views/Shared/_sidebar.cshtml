@@ -2,15 +2,16 @@
 <nav class="sidebar-nav">
     <ul class="nav">
         <li class="nav-item">
-            <a class="nav-link" href="index.html"><i class="icon-speedometer"></i> لوحة التحكم <!--<span class="tag tag-info">جدید</span>--></a>
+            <a class="nav-link" asp-controller="Home" asp-action="Index"><i class="icon-speedometer"></i> لوحة التحكم <!--<span class="tag tag-info">جدید</span>--></a>
         </li>
 
         <li class="nav-title">
             إدارة الأعضاء
         </li>
         <li class="nav-item">
-            <a class="nav-link" onclick="showInPopup('@Url.Action("AddClient", "Clients")')"><i class="icon-user"></i>عضو جديد</a>
-            <a class="nav-link" href="#"><i class="icon-people"></i> بيانات الأعضاء</a>
+            @*<a class="nav-link" onclick="showInPopup('@Url.Action("AddClient", "Clients")')"><i class="icon-user"></i>عضو جديد</a>*@
+            <a class="nav-link" asp-controller="Clients" asp-action="Families"><i class="icon-people"></i> العائلات</a>
+            <a class="nav-link" asp-controller="Clients" asp-action="Index"><i class="icon-people"></i> بيانات الأعضاء</a>
         </li>
 
         <li class="nav-title">
