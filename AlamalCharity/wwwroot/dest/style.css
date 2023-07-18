@@ -1,6 +1,7 @@
 /*! normalize.css v4.0.0 | MIT License | github.com/necolas/normalize.css */
 html {
-  font-family: sans-serif;
+  /*font-family: sans-serif;*/
+  font-family: Calibri;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%; }
 
@@ -5058,7 +5059,8 @@ header.navbar .navbar-nav .nav-link {
   src: url("../fonts/Sahel-Black-FD.eot?#iefix") format("embedded-opentype"), url("../fonts/Sahel-Black-FD.woff") format("woff"), url("../fonts/Sahel-Black-FD.ttf") format("truetype");
   font-weight: 900; }
 html, body {
-  font-family: 'Sahel'  !important;
+  /*font-family: 'Sahel'  !important;*/
+  font-family: Calibri  !important;
   line-height: 1.62 !important;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased; }
@@ -5067,19 +5069,19 @@ html, body {
   html .en, body .en {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
     html .en::-webkit-input-placeholder, body .en::-webkit-input-placeholder {
-      font-family: 'Sahel'  !important;
+      font-family: Calibri  !important;
       -webkit-transition: .6s all;
       transition: .6s all; }
     html .en::-moz-placeholder, body .en::-moz-placeholder {
-      font-family: 'Sahel'  !important;
+      font-family: Calibri  !important;
       -webkit-transition: .6s all;
       transition: .6s all; }
     html .en:-ms-input-placeholder, body .en:-ms-input-placeholder {
-      font-family: 'Sahel'  !important;
+      font-family: Calibri  !important;
       -webkit-transition: .6s all;
       transition: .6s all; }
     html .en::placeholder, body .en::placeholder {
-      font-family: 'Sahel'  !important;
+      font-family: Calibri  !important;
       -webkit-transition: .6s all;
       transition: .6s all; }
     html .en:focus, body .en:focus {

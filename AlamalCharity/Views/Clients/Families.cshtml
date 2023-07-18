@@ -1,0 +1,75 @@
+﻿@model AlamalCharity.Models.FamiliesList;
+@{
+    Layout = "~/Views/Shared/_layout.cshtml";
+}
+
+<div class="row">
+
+    @*Families*@
+    <div class="col-lg-12">
+        <div class="card">
+            <div class="card-header">
+                <i class="fa fa-align-justify"></i> ألعائلات
+            </div>
+            <div class="card-block">
+                <input type="button" class="btn btn-primary" style="float:left;margin-bottom:5px;" value="إضافة " onclick="showInPopup('@Url.Action("AddFamily", "Clients")')">
+                <table class="table table-bordered table-striped table-condensed" style="font-family:Calibri;">
+                    <thead>
+                        <tr>
+                            <th>م</th>
+                            <th>العائلة</th>
+                            <th>تاريخ الإضافة</th>
+                            <th>الحالة</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (Model != null)
+                        {
+                            if (Model.Families != null)
+                            {
+                                @foreach (var item in Model.Families)
+                                {
+                                    <tr>
+                                        <td>@item.fmID</td>
+                                        <td>@item.fmName</td>
+                                        <td>@item.fmAddDate</td>
+                                        @if (item.fmStatus == 1)
+                                        {
+                                            <td><span class="tag tag-success">مفعل</span></td>
+                                        }
+                                        else
+                                        {
+                                            <td><span class="tag tag-danger">غير مفعل</span></td>
+                                        }
+                                        <td><input type="button" class="btn-info" value="تعديل " onclick="showInPopup('@Url.Action("UpdateFamily", "Clients", new {ID = item.fmID })')"></td>
+
+                                    </tr>
+                                }
+                            }
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<script type="text/javascript">
+    showInPopup = (url, title) => {
+        $.ajax({
+            type: 'GET',
+            url: url,
+            success: function (res) {
+                $('#form-modal .modal-body').html(res);
+                $('#form-modal .modal-title').html(title);
+                $('#form-modal').modal('show');
+                // to make popup draggable
+                $('.modal-dialog').draggable({
+                    handle: ".modal-header"
+                });
+            }
+        })
+    }
+</script>

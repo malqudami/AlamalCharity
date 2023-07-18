@@ -3,8 +3,8 @@
     public class Subscriptions
     {
         public int ID { get; set; }
-        public int CLIENT_ID { get; set; }
-        public int SUB_YEAR { get; set; }
+        public int CLNT_ID { get; set; }
+        public int YEAR { get; set; }
         public int JAN { get; set; }
         public DateTime JAN_DATE { get; set; }
         public int FEB { get; set; }

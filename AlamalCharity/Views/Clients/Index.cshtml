@@ -4,6 +4,8 @@
 }
 
 <div class="row">
+
+    @*Clients*@
     <div class="col-lg-12">
         <div class="card">
             <div class="card-header">
@@ -33,7 +35,7 @@
                                     <tr>
                                         <td>@item.clntID</td>
                                         <td>@item.clntName</td>
-                                        <td>@item.clntFamily</td>
+                                        <td>@item.clntFamilyValue</td>
                                         <td>@item.clntMobile</td>
                                         <td>@item.clntAddDate</td>
                                         @if (item.clntStatus == 1)
@@ -44,7 +46,7 @@
                                         {
                                             <td><span class="tag tag-danger">غير مفعل</span></td>
                                         }
-                                        <td><input type="button" class="btn-info" value="تعديل " asp-for="@item.clntID"></td>
+                                        <td><input type="button" class="btn-info" value="تعديل " onclick="showInPopup('@Url.Action("UpdateClient", "Clients", new { ID = item.clntID})')"></td>
 
                                     </tr>
                                 }
@@ -55,8 +57,8 @@
             </div>
         </div>
     </div>
-</div>
 
+</div>
 
 <script type="text/javascript">
     showInPopup = (url, title) => {

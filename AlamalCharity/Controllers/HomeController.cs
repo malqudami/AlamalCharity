@@ -20,6 +20,8 @@ namespace AlamalCharity.Controllers
 
         public IActionResult Index()
         {
+            ViewBag.Dept = "ألرئيسية";
+            ViewBag.Page = "لوحة التحكم";
             return View();
         }
 

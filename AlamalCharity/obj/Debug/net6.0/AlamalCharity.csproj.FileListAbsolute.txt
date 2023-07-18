@@ -1,10 +1,11 @@
-C:\Docs\Apps\AlamalCharity\AlamalCharity\bin\Debug\net6.0\AlamalCharity.dll
 C:\Docs\Apps\AlamalCharity\AlamalCharity\bin\Debug\net6.0\appsettings.Development.json
 C:\Docs\Apps\AlamalCharity\AlamalCharity\bin\Debug\net6.0\appsettings.json
 C:\Docs\Apps\AlamalCharity\AlamalCharity\bin\Debug\net6.0\AlamalCharity.staticwebassets.runtime.json
 C:\Docs\Apps\AlamalCharity\AlamalCharity\bin\Debug\net6.0\AlamalCharity.exe
 C:\Docs\Apps\AlamalCharity\AlamalCharity\bin\Debug\net6.0\AlamalCharity.deps.json
 C:\Docs\Apps\AlamalCharity\AlamalCharity\bin\Debug\net6.0\AlamalCharity.runtimeconfig.json
+C:\Docs\Apps\AlamalCharity\AlamalCharity\bin\Debug\net6.0\AlamalCharity.dll
+C:\Docs\Apps\AlamalCharity\AlamalCharity\bin\Debug\net6.0\AlamalCharity.pdb
 C:\Docs\Apps\AlamalCharity\AlamalCharity\bin\Debug\net6.0\Azure.Core.dll
 C:\Docs\Apps\AlamalCharity\AlamalCharity\bin\Debug\net6.0\Azure.Identity.dll
 C:\Docs\Apps\AlamalCharity\AlamalCharity\bin\Debug\net6.0\Humanizer.dll
@@ -263,5 +264,4 @@ C:\Docs\Apps\AlamalCharity\AlamalCharity\obj\Debug\net6.0\AlamalCharity.dll
 C:\Docs\Apps\AlamalCharity\AlamalCharity\obj\Debug\net6.0\refint\AlamalCharity.dll
 C:\Docs\Apps\AlamalCharity\AlamalCharity\obj\Debug\net6.0\AlamalCharity.pdb
 C:\Docs\Apps\AlamalCharity\AlamalCharity\obj\Debug\net6.0\AlamalCharity.genruntimeconfig.cache
-C:\Docs\Apps\AlamalCharity\AlamalCharity\bin\Debug\net6.0\AlamalCharity.pdb
 C:\Docs\Apps\AlamalCharity\AlamalCharity\obj\Debug\net6.0\ref\AlamalCharity.dll

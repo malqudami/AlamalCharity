@@ -6,7 +6,8 @@ namespace AlamalCharity.Models
     {
         public int clntID { get; set; }
         public string clntName { get; set; }
-        public string clntFamily { get; set; }
+        public string clntFamilyValue { get; set; }
+        public int clntFamily { get; set; }
         public List<SelectListItem> Families { get; set; }
         public string clntMobile { get; set; }
         public DateTime clntAddDate{ get; set;}

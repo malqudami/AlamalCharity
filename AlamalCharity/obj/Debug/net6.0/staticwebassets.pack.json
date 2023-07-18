@@ -57,6 +57,18 @@
       "PackagePath": "staticwebassets\\css\\_variables.scss"
     },
     {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\css\\bootstrap-select.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-select.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\css\\bootstrap-select.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-select.css.map"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\css\\bootstrap-select.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-select.min.css"
+    },
+    {
       "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\css\\font-awesome.css",
       "PackagePath": "staticwebassets\\css\\font-awesome.css"
     },
@@ -1219,6 +1231,46 @@
     {
       "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\js\\app.js",
       "PackagePath": "staticwebassets\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\js\\bootstrap-select.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-select.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\js\\bootstrap-select.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap-select.js.map"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\js\\bootstrap-select.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-select.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\js\\bootstrap-select.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap-select.min.js.map"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\js\\i18n\\defaults-ar_AR.js",
+      "PackagePath": "staticwebassets\\js\\i18n\\defaults-ar_AR.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\js\\i18n\\defaults-ar_AR.js.map",
+      "PackagePath": "staticwebassets\\js\\i18n\\defaults-ar_AR.js.map"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\js\\i18n\\defaults-ar_AR.min.js",
+      "PackagePath": "staticwebassets\\js\\i18n\\defaults-ar_AR.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\js\\i18n\\defaults-en_US.js",
+      "PackagePath": "staticwebassets\\js\\i18n\\defaults-en_US.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\js\\i18n\\defaults-en_US.js.map",
+      "PackagePath": "staticwebassets\\js\\i18n\\defaults-en_US.js.map"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\js\\i18n\\defaults-en_US.min.js",
+      "PackagePath": "staticwebassets\\js\\i18n\\defaults-en_US.min.js"
     },
     {
       "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\js\\libs\\Chart.min.js",

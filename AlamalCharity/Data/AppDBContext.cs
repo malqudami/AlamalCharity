@@ -15,9 +15,11 @@ namespace AlamalCharity.Data
 
         public DbSet<Clients> Clients { get; set; }
 
-        public DbSet<FAMILIES> Families { get; set; }
+        public DbSet<Families> Families { get; set; }
 
         public DbSet<Subscriptions> Subscriptions { get; set; }
+
+        public DbSet<Years> Years { get; set; }
 
     }
 }
