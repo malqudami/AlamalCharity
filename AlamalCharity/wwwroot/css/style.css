@@ -2922,6 +2922,11 @@ input[type="button"].btn-block {
   left: 0;
   padding: 1.25rem; }
 
+.scroll {
+    max-height: 100px;
+    overflow-y: auto;
+}
+
 @media (min-width: 544px) {
   .card-deck {
     display: table;

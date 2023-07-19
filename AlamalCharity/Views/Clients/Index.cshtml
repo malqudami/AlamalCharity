@@ -12,11 +12,13 @@
                 <i class="fa fa-align-justify"></i> أعضاء الجمعية
             </div>
             <div class="card-block">
-                <input type="button" class="btn btn-primary" style="float:left;margin-bottom:5px;" value="إضافة " onclick="showInPopup('@Url.Action("AddClient", "Clients")')">
-                <table class="table table-bordered table-striped table-condensed" style="font-family:Calibri;">
+                <input type="button" class="btn btn-primary" style="float:left;margin-bottom:5px;" value="إضافة عضو" onclick="showInPopup('@Url.Action("AddClient", "Clients")')">
+            </div>
+            <div class="card-block">
+                <table id="customtable" class="table table-bordered table-striped tableFixHead table-condensed" style="font-family:Calibri;">
                     <thead>
                         <tr>
-                            <th>رقم العضو</th>
+                            <th>م</th>
                             <th>إسم العضو</th>
                             <th>العائلة</th>
                             <th>رقم الجوال</th>
@@ -26,6 +28,15 @@
                         </tr>
                     </thead>
                     <tbody>
+                        @*<tr>
+                            <td>رقم العضو</td>
+                            <td>إسم العضو</td>
+                            <td>العائلة</td>
+                            <td>رقم الجوال</td>
+                            <td>تاريخ الإضافة</td>
+                            <td>الحالة</td>
+                            <td></td>
+                        </tr>*@
                         @if (Model != null)
                         {
                             if (Model.Clients != null)
@@ -46,7 +57,10 @@
                                         {
                                             <td><span class="tag tag-danger">غير مفعل</span></td>
                                         }
-                                        <td><input type="button" class="btn-info" value="تعديل " onclick="showInPopup('@Url.Action("UpdateClient", "Clients", new { ID = item.clntID})')"></td>
+                                        <td>
+                                            <input type="button" class=" btn btn-info" value="تعديل " onclick="showInPopup('@Url.Action("UpdateClient", "Clients", new { ID = item.clntID})')">
+                                            <input type="button" class="btn btn-success" value="دفع " onclick="showInPopup('@Url.Action("PaySubs", "Subs", new { ID = item.clntID})')">
+                                        </td>
 
                                     </tr>
                                 }
@@ -60,7 +74,7 @@
 
 </div>
 
-<script type="text/javascript">
+@*<script type="text/javascript">
     showInPopup = (url, title) => {
         $.ajax({
             type: 'GET',
@@ -76,4 +90,4 @@
             }
         })
     }
-</script>
+</script>*@

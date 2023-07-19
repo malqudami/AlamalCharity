@@ -4,18 +4,16 @@
 }
 
 <div class="row">
-
     @*Clients*@
-    <div class="col-lg-12">
+    <div class="col-lg-12 scroll">
         <div class="card">
             <div class="card-header">
                 <i class="fa fa-align-justify"></i> إشتراكات الأعضاء
             </div>
-            <div class="card-block">
-                <input type="button" class="btn btn-primary" style="float:left;margin-bottom:5px;" value="دفع " onclick="showInPopup('@Url.Action("PaySubs", "Subs")')">
-                <table class="table table-bordered table-striped table-condensed" style="font-family:Calibri;">
+            <div class="card-block" style="padding:20px;">
+                <table id="customtable" class="table table-bordered table-striped dtHorizontal table-condensed" cellspacing="0" style="font-family:Calibri;">
                     <thead>
-                        <tr>
+                        <tr">
                             <th>م</th>
                             <th>إسم العضو</th>
                             <th>السنة</th>
@@ -65,7 +63,7 @@
                                         {
                                             <td><span class="tag tag-danger">0</span></td>
                                         }
-                                        
+
                                     </tr>
                                 }
                             }
@@ -78,20 +76,6 @@
 
 </div>
 
-<script type="text/javascript">
-    showInPopup = (url, title) => {
-        $.ajax({
-            type: 'GET',
-            url: url,
-            success: function (res) {
-                $('#form-modal .modal-body').html(res);
-                $('#form-modal .modal-title').html(title);
-                $('#form-modal').modal('show');
-                // to make popup draggable
-                $('.modal-dialog').draggable({
-                    handle: ".modal-header"
-                });
-            }
-        })
-    }
-</script>
+@*<script type="text/javascript">
+    
+</script>*@

@@ -5,6 +5,22 @@
       "PackagePath": "staticwebassets\\AlamalCharity.bundle.scp.css"
     },
     {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\3.3.7\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\3.3.7\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\3.3.7\\bootstrap.rtl.full.css",
+      "PackagePath": "staticwebassets\\3.3.7\\bootstrap.rtl.full.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\3.3.7\\bootstrap.rtl.full.min.css",
+      "PackagePath": "staticwebassets\\3.3.7\\bootstrap.rtl.full.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\3.3.7\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\3.3.7\\bootstrap.rtl.min.css"
+    },
+    {
       "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\css\\_animated.scss",
       "PackagePath": "staticwebassets\\css\\_animated.scss"
     },
@@ -115,6 +131,938 @@
     {
       "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\css\\style.min.css",
       "PackagePath": "staticwebassets\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Bootstrap-3.3.7\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\datatable\\Bootstrap-3.3.7\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Bootstrap-3.3.7\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\datatable\\Bootstrap-3.3.7\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Bootstrap-3.3.7\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\datatable\\Bootstrap-3.3.7\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Bootstrap-3.3.7\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\datatable\\Bootstrap-3.3.7\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Bootstrap-3.3.7\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\datatable\\Bootstrap-3.3.7\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Bootstrap-3.3.7\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\datatable\\Bootstrap-3.3.7\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Bootstrap-3.3.7\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\datatable\\Bootstrap-3.3.7\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Bootstrap-3.3.7\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\datatable\\Bootstrap-3.3.7\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Bootstrap-3.3.7\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\datatable\\Bootstrap-3.3.7\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Bootstrap-3.3.7\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\datatable\\Bootstrap-3.3.7\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Bootstrap-3.3.7\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\datatable\\Bootstrap-3.3.7\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Bootstrap-3.3.7\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\datatable\\Bootstrap-3.3.7\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Bootstrap-3.3.7\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\datatable\\Bootstrap-3.3.7\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Bootstrap-3.3.7\\js\\npm.js",
+      "PackagePath": "staticwebassets\\datatable\\Bootstrap-3.3.7\\js\\npm.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\css\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\css\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\css\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\css\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\css\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\css\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\css\\dataTables.bootstrap5.css",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\css\\dataTables.bootstrap5.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\css\\dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\css\\dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\css\\dataTables.bulma.css",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\css\\dataTables.bulma.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\css\\dataTables.bulma.min.css",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\css\\dataTables.bulma.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\css\\dataTables.dataTables.css",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\css\\dataTables.dataTables.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\css\\dataTables.dataTables.min.css",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\css\\dataTables.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\css\\dataTables.foundation.css",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\css\\dataTables.foundation.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\css\\dataTables.foundation.min.css",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\css\\dataTables.foundation.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\css\\dataTables.jqueryui.css",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\css\\dataTables.jqueryui.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\css\\dataTables.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\css\\dataTables.jqueryui.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\css\\dataTables.semanticui.css",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\css\\dataTables.semanticui.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\css\\dataTables.semanticui.min.css",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\css\\dataTables.semanticui.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\css\\jquery.dataTables.css",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\css\\jquery.dataTables.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\css\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\css\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\images\\sort_asc.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\images\\sort_both.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\images\\sort_desc.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\js\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\js\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\js\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\js\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\js\\dataTables.bootstrap5.js",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\js\\dataTables.bootstrap5.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\js\\dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\js\\dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\js\\dataTables.bulma.js",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\js\\dataTables.bulma.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\js\\dataTables.bulma.min.js",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\js\\dataTables.bulma.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\js\\dataTables.dataTables.js",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\js\\dataTables.dataTables.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\js\\dataTables.dataTables.min.js",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\js\\dataTables.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\js\\dataTables.foundation.js",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\js\\dataTables.foundation.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\js\\dataTables.foundation.min.js",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\js\\dataTables.foundation.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\js\\dataTables.jqueryui.js",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\js\\dataTables.jqueryui.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\js\\dataTables.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\js\\dataTables.jqueryui.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\js\\dataTables.semanticui.js",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\js\\dataTables.semanticui.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\js\\dataTables.semanticui.min.js",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\js\\dataTables.semanticui.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\DataTables-1.13.5\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\datatable\\DataTables-1.13.5\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\FixedColumns-4.3.0\\css\\fixedColumns.bootstrap.css",
+      "PackagePath": "staticwebassets\\datatable\\FixedColumns-4.3.0\\css\\fixedColumns.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\FixedColumns-4.3.0\\css\\fixedColumns.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\datatable\\FixedColumns-4.3.0\\css\\fixedColumns.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\FixedColumns-4.3.0\\css\\fixedColumns.bootstrap4.css",
+      "PackagePath": "staticwebassets\\datatable\\FixedColumns-4.3.0\\css\\fixedColumns.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\FixedColumns-4.3.0\\css\\fixedColumns.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\datatable\\FixedColumns-4.3.0\\css\\fixedColumns.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\FixedColumns-4.3.0\\css\\fixedColumns.bootstrap5.css",
+      "PackagePath": "staticwebassets\\datatable\\FixedColumns-4.3.0\\css\\fixedColumns.bootstrap5.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\FixedColumns-4.3.0\\css\\fixedColumns.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\datatable\\FixedColumns-4.3.0\\css\\fixedColumns.bootstrap5.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\FixedColumns-4.3.0\\css\\fixedColumns.bulma.css",
+      "PackagePath": "staticwebassets\\datatable\\FixedColumns-4.3.0\\css\\fixedColumns.bulma.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\FixedColumns-4.3.0\\css\\fixedColumns.bulma.min.css",
+      "PackagePath": "staticwebassets\\datatable\\FixedColumns-4.3.0\\css\\fixedColumns.bulma.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\FixedColumns-4.3.0\\css\\fixedColumns.dataTables.css",
+      "PackagePath": "staticwebassets\\datatable\\FixedColumns-4.3.0\\css\\fixedColumns.dataTables.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\FixedColumns-4.3.0\\css\\fixedColumns.dataTables.min.css",
+      "PackagePath": "staticwebassets\\datatable\\FixedColumns-4.3.0\\css\\fixedColumns.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\FixedColumns-4.3.0\\css\\fixedColumns.foundation.css",
+      "PackagePath": "staticwebassets\\datatable\\FixedColumns-4.3.0\\css\\fixedColumns.foundation.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\FixedColumns-4.3.0\\css\\fixedColumns.foundation.min.css",
+      "PackagePath": "staticwebassets\\datatable\\FixedColumns-4.3.0\\css\\fixedColumns.foundation.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\FixedColumns-4.3.0\\css\\fixedColumns.jqueryui.css",
+      "PackagePath": "staticwebassets\\datatable\\FixedColumns-4.3.0\\css\\fixedColumns.jqueryui.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\FixedColumns-4.3.0\\css\\fixedColumns.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\datatable\\FixedColumns-4.3.0\\css\\fixedColumns.jqueryui.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\FixedColumns-4.3.0\\css\\fixedColumns.semanticui.css",
+      "PackagePath": "staticwebassets\\datatable\\FixedColumns-4.3.0\\css\\fixedColumns.semanticui.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\FixedColumns-4.3.0\\css\\fixedColumns.semanticui.min.css",
+      "PackagePath": "staticwebassets\\datatable\\FixedColumns-4.3.0\\css\\fixedColumns.semanticui.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\FixedColumns-4.3.0\\js\\dataTables.fixedColumns.js",
+      "PackagePath": "staticwebassets\\datatable\\FixedColumns-4.3.0\\js\\dataTables.fixedColumns.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\FixedColumns-4.3.0\\js\\dataTables.fixedColumns.min.js",
+      "PackagePath": "staticwebassets\\datatable\\FixedColumns-4.3.0\\js\\dataTables.fixedColumns.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\FixedColumns-4.3.0\\js\\fixedColumns.bootstrap.js",
+      "PackagePath": "staticwebassets\\datatable\\FixedColumns-4.3.0\\js\\fixedColumns.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\FixedColumns-4.3.0\\js\\fixedColumns.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\datatable\\FixedColumns-4.3.0\\js\\fixedColumns.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\FixedColumns-4.3.0\\js\\fixedColumns.bootstrap4.js",
+      "PackagePath": "staticwebassets\\datatable\\FixedColumns-4.3.0\\js\\fixedColumns.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\FixedColumns-4.3.0\\js\\fixedColumns.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\datatable\\FixedColumns-4.3.0\\js\\fixedColumns.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\FixedColumns-4.3.0\\js\\fixedColumns.bootstrap5.js",
+      "PackagePath": "staticwebassets\\datatable\\FixedColumns-4.3.0\\js\\fixedColumns.bootstrap5.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\FixedColumns-4.3.0\\js\\fixedColumns.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\datatable\\FixedColumns-4.3.0\\js\\fixedColumns.bootstrap5.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\FixedColumns-4.3.0\\js\\fixedColumns.bulma.js",
+      "PackagePath": "staticwebassets\\datatable\\FixedColumns-4.3.0\\js\\fixedColumns.bulma.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\FixedColumns-4.3.0\\js\\fixedColumns.bulma.min.js",
+      "PackagePath": "staticwebassets\\datatable\\FixedColumns-4.3.0\\js\\fixedColumns.bulma.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\FixedColumns-4.3.0\\js\\fixedColumns.dataTables.js",
+      "PackagePath": "staticwebassets\\datatable\\FixedColumns-4.3.0\\js\\fixedColumns.dataTables.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\FixedColumns-4.3.0\\js\\fixedColumns.dataTables.min.js",
+      "PackagePath": "staticwebassets\\datatable\\FixedColumns-4.3.0\\js\\fixedColumns.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\FixedColumns-4.3.0\\js\\fixedColumns.foundation.js",
+      "PackagePath": "staticwebassets\\datatable\\FixedColumns-4.3.0\\js\\fixedColumns.foundation.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\FixedColumns-4.3.0\\js\\fixedColumns.foundation.min.js",
+      "PackagePath": "staticwebassets\\datatable\\FixedColumns-4.3.0\\js\\fixedColumns.foundation.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\FixedColumns-4.3.0\\js\\fixedColumns.jqueryui.js",
+      "PackagePath": "staticwebassets\\datatable\\FixedColumns-4.3.0\\js\\fixedColumns.jqueryui.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\FixedColumns-4.3.0\\js\\fixedColumns.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\datatable\\FixedColumns-4.3.0\\js\\fixedColumns.jqueryui.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\FixedColumns-4.3.0\\js\\fixedColumns.semanticui.js",
+      "PackagePath": "staticwebassets\\datatable\\FixedColumns-4.3.0\\js\\fixedColumns.semanticui.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\FixedColumns-4.3.0\\js\\fixedColumns.semanticui.min.js",
+      "PackagePath": "staticwebassets\\datatable\\FixedColumns-4.3.0\\js\\fixedColumns.semanticui.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Scroller-2.2.0\\css\\scroller.bootstrap.css",
+      "PackagePath": "staticwebassets\\datatable\\Scroller-2.2.0\\css\\scroller.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Scroller-2.2.0\\css\\scroller.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\datatable\\Scroller-2.2.0\\css\\scroller.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Scroller-2.2.0\\css\\scroller.bootstrap4.css",
+      "PackagePath": "staticwebassets\\datatable\\Scroller-2.2.0\\css\\scroller.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Scroller-2.2.0\\css\\scroller.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\datatable\\Scroller-2.2.0\\css\\scroller.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Scroller-2.2.0\\css\\scroller.bootstrap5.css",
+      "PackagePath": "staticwebassets\\datatable\\Scroller-2.2.0\\css\\scroller.bootstrap5.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Scroller-2.2.0\\css\\scroller.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\datatable\\Scroller-2.2.0\\css\\scroller.bootstrap5.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Scroller-2.2.0\\css\\scroller.bulma.css",
+      "PackagePath": "staticwebassets\\datatable\\Scroller-2.2.0\\css\\scroller.bulma.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Scroller-2.2.0\\css\\scroller.bulma.min.css",
+      "PackagePath": "staticwebassets\\datatable\\Scroller-2.2.0\\css\\scroller.bulma.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Scroller-2.2.0\\css\\scroller.dataTables.css",
+      "PackagePath": "staticwebassets\\datatable\\Scroller-2.2.0\\css\\scroller.dataTables.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Scroller-2.2.0\\css\\scroller.dataTables.min.css",
+      "PackagePath": "staticwebassets\\datatable\\Scroller-2.2.0\\css\\scroller.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Scroller-2.2.0\\css\\scroller.foundation.css",
+      "PackagePath": "staticwebassets\\datatable\\Scroller-2.2.0\\css\\scroller.foundation.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Scroller-2.2.0\\css\\scroller.foundation.min.css",
+      "PackagePath": "staticwebassets\\datatable\\Scroller-2.2.0\\css\\scroller.foundation.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Scroller-2.2.0\\css\\scroller.jqueryui.css",
+      "PackagePath": "staticwebassets\\datatable\\Scroller-2.2.0\\css\\scroller.jqueryui.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Scroller-2.2.0\\css\\scroller.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\datatable\\Scroller-2.2.0\\css\\scroller.jqueryui.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Scroller-2.2.0\\css\\scroller.semanticui.css",
+      "PackagePath": "staticwebassets\\datatable\\Scroller-2.2.0\\css\\scroller.semanticui.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Scroller-2.2.0\\css\\scroller.semanticui.min.css",
+      "PackagePath": "staticwebassets\\datatable\\Scroller-2.2.0\\css\\scroller.semanticui.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Scroller-2.2.0\\js\\dataTables.scroller.js",
+      "PackagePath": "staticwebassets\\datatable\\Scroller-2.2.0\\js\\dataTables.scroller.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Scroller-2.2.0\\js\\dataTables.scroller.min.js",
+      "PackagePath": "staticwebassets\\datatable\\Scroller-2.2.0\\js\\dataTables.scroller.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Scroller-2.2.0\\js\\scroller.bootstrap.js",
+      "PackagePath": "staticwebassets\\datatable\\Scroller-2.2.0\\js\\scroller.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Scroller-2.2.0\\js\\scroller.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\datatable\\Scroller-2.2.0\\js\\scroller.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Scroller-2.2.0\\js\\scroller.bootstrap4.js",
+      "PackagePath": "staticwebassets\\datatable\\Scroller-2.2.0\\js\\scroller.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Scroller-2.2.0\\js\\scroller.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\datatable\\Scroller-2.2.0\\js\\scroller.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Scroller-2.2.0\\js\\scroller.bootstrap5.js",
+      "PackagePath": "staticwebassets\\datatable\\Scroller-2.2.0\\js\\scroller.bootstrap5.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Scroller-2.2.0\\js\\scroller.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\datatable\\Scroller-2.2.0\\js\\scroller.bootstrap5.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Scroller-2.2.0\\js\\scroller.bulma.js",
+      "PackagePath": "staticwebassets\\datatable\\Scroller-2.2.0\\js\\scroller.bulma.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Scroller-2.2.0\\js\\scroller.bulma.min.js",
+      "PackagePath": "staticwebassets\\datatable\\Scroller-2.2.0\\js\\scroller.bulma.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Scroller-2.2.0\\js\\scroller.dataTables.js",
+      "PackagePath": "staticwebassets\\datatable\\Scroller-2.2.0\\js\\scroller.dataTables.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Scroller-2.2.0\\js\\scroller.dataTables.min.js",
+      "PackagePath": "staticwebassets\\datatable\\Scroller-2.2.0\\js\\scroller.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Scroller-2.2.0\\js\\scroller.foundation.js",
+      "PackagePath": "staticwebassets\\datatable\\Scroller-2.2.0\\js\\scroller.foundation.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Scroller-2.2.0\\js\\scroller.foundation.min.js",
+      "PackagePath": "staticwebassets\\datatable\\Scroller-2.2.0\\js\\scroller.foundation.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Scroller-2.2.0\\js\\scroller.jqueryui.js",
+      "PackagePath": "staticwebassets\\datatable\\Scroller-2.2.0\\js\\scroller.jqueryui.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Scroller-2.2.0\\js\\scroller.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\datatable\\Scroller-2.2.0\\js\\scroller.jqueryui.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Scroller-2.2.0\\js\\scroller.semanticui.js",
+      "PackagePath": "staticwebassets\\datatable\\Scroller-2.2.0\\js\\scroller.semanticui.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Scroller-2.2.0\\js\\scroller.semanticui.min.js",
+      "PackagePath": "staticwebassets\\datatable\\Scroller-2.2.0\\js\\scroller.semanticui.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchBuilder-1.5.0\\css\\common.scss",
+      "PackagePath": "staticwebassets\\datatable\\SearchBuilder-1.5.0\\css\\common.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchBuilder-1.5.0\\css\\dataTables.dateTime.scss",
+      "PackagePath": "staticwebassets\\datatable\\SearchBuilder-1.5.0\\css\\dataTables.dateTime.scss"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchBuilder-1.5.0\\css\\searchBuilder.bootstrap.css",
+      "PackagePath": "staticwebassets\\datatable\\SearchBuilder-1.5.0\\css\\searchBuilder.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchBuilder-1.5.0\\css\\searchBuilder.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\datatable\\SearchBuilder-1.5.0\\css\\searchBuilder.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchBuilder-1.5.0\\css\\searchBuilder.bootstrap4.css",
+      "PackagePath": "staticwebassets\\datatable\\SearchBuilder-1.5.0\\css\\searchBuilder.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchBuilder-1.5.0\\css\\searchBuilder.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\datatable\\SearchBuilder-1.5.0\\css\\searchBuilder.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchBuilder-1.5.0\\css\\searchBuilder.bootstrap5.css",
+      "PackagePath": "staticwebassets\\datatable\\SearchBuilder-1.5.0\\css\\searchBuilder.bootstrap5.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchBuilder-1.5.0\\css\\searchBuilder.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\datatable\\SearchBuilder-1.5.0\\css\\searchBuilder.bootstrap5.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchBuilder-1.5.0\\css\\searchBuilder.bulma.css",
+      "PackagePath": "staticwebassets\\datatable\\SearchBuilder-1.5.0\\css\\searchBuilder.bulma.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchBuilder-1.5.0\\css\\searchBuilder.bulma.min.css",
+      "PackagePath": "staticwebassets\\datatable\\SearchBuilder-1.5.0\\css\\searchBuilder.bulma.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchBuilder-1.5.0\\css\\searchBuilder.dataTables.css",
+      "PackagePath": "staticwebassets\\datatable\\SearchBuilder-1.5.0\\css\\searchBuilder.dataTables.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchBuilder-1.5.0\\css\\searchBuilder.dataTables.min.css",
+      "PackagePath": "staticwebassets\\datatable\\SearchBuilder-1.5.0\\css\\searchBuilder.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchBuilder-1.5.0\\css\\searchBuilder.foundation.css",
+      "PackagePath": "staticwebassets\\datatable\\SearchBuilder-1.5.0\\css\\searchBuilder.foundation.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchBuilder-1.5.0\\css\\searchBuilder.foundation.min.css",
+      "PackagePath": "staticwebassets\\datatable\\SearchBuilder-1.5.0\\css\\searchBuilder.foundation.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchBuilder-1.5.0\\css\\searchBuilder.jqueryui.css",
+      "PackagePath": "staticwebassets\\datatable\\SearchBuilder-1.5.0\\css\\searchBuilder.jqueryui.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchBuilder-1.5.0\\css\\searchBuilder.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\datatable\\SearchBuilder-1.5.0\\css\\searchBuilder.jqueryui.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchBuilder-1.5.0\\css\\searchBuilder.semanticui.css",
+      "PackagePath": "staticwebassets\\datatable\\SearchBuilder-1.5.0\\css\\searchBuilder.semanticui.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchBuilder-1.5.0\\css\\searchBuilder.semanticui.min.css",
+      "PackagePath": "staticwebassets\\datatable\\SearchBuilder-1.5.0\\css\\searchBuilder.semanticui.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchBuilder-1.5.0\\js\\dataTables.searchBuilder.js",
+      "PackagePath": "staticwebassets\\datatable\\SearchBuilder-1.5.0\\js\\dataTables.searchBuilder.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchBuilder-1.5.0\\js\\dataTables.searchBuilder.min.js",
+      "PackagePath": "staticwebassets\\datatable\\SearchBuilder-1.5.0\\js\\dataTables.searchBuilder.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchBuilder-1.5.0\\js\\searchBuilder.bootstrap.js",
+      "PackagePath": "staticwebassets\\datatable\\SearchBuilder-1.5.0\\js\\searchBuilder.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchBuilder-1.5.0\\js\\searchBuilder.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\datatable\\SearchBuilder-1.5.0\\js\\searchBuilder.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchBuilder-1.5.0\\js\\searchBuilder.bootstrap4.js",
+      "PackagePath": "staticwebassets\\datatable\\SearchBuilder-1.5.0\\js\\searchBuilder.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchBuilder-1.5.0\\js\\searchBuilder.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\datatable\\SearchBuilder-1.5.0\\js\\searchBuilder.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchBuilder-1.5.0\\js\\searchBuilder.bootstrap5.js",
+      "PackagePath": "staticwebassets\\datatable\\SearchBuilder-1.5.0\\js\\searchBuilder.bootstrap5.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchBuilder-1.5.0\\js\\searchBuilder.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\datatable\\SearchBuilder-1.5.0\\js\\searchBuilder.bootstrap5.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchBuilder-1.5.0\\js\\searchBuilder.bulma.js",
+      "PackagePath": "staticwebassets\\datatable\\SearchBuilder-1.5.0\\js\\searchBuilder.bulma.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchBuilder-1.5.0\\js\\searchBuilder.bulma.min.js",
+      "PackagePath": "staticwebassets\\datatable\\SearchBuilder-1.5.0\\js\\searchBuilder.bulma.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchBuilder-1.5.0\\js\\searchBuilder.dataTables.js",
+      "PackagePath": "staticwebassets\\datatable\\SearchBuilder-1.5.0\\js\\searchBuilder.dataTables.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchBuilder-1.5.0\\js\\searchBuilder.dataTables.min.js",
+      "PackagePath": "staticwebassets\\datatable\\SearchBuilder-1.5.0\\js\\searchBuilder.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchBuilder-1.5.0\\js\\searchBuilder.foundation.js",
+      "PackagePath": "staticwebassets\\datatable\\SearchBuilder-1.5.0\\js\\searchBuilder.foundation.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchBuilder-1.5.0\\js\\searchBuilder.foundation.min.js",
+      "PackagePath": "staticwebassets\\datatable\\SearchBuilder-1.5.0\\js\\searchBuilder.foundation.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchBuilder-1.5.0\\js\\searchBuilder.jqueryui.js",
+      "PackagePath": "staticwebassets\\datatable\\SearchBuilder-1.5.0\\js\\searchBuilder.jqueryui.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchBuilder-1.5.0\\js\\searchBuilder.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\datatable\\SearchBuilder-1.5.0\\js\\searchBuilder.jqueryui.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchBuilder-1.5.0\\js\\searchBuilder.semanticui.js",
+      "PackagePath": "staticwebassets\\datatable\\SearchBuilder-1.5.0\\js\\searchBuilder.semanticui.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchBuilder-1.5.0\\js\\searchBuilder.semanticui.min.js",
+      "PackagePath": "staticwebassets\\datatable\\SearchBuilder-1.5.0\\js\\searchBuilder.semanticui.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchPanes-2.2.0\\css\\searchPanes.bootstrap.css",
+      "PackagePath": "staticwebassets\\datatable\\SearchPanes-2.2.0\\css\\searchPanes.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchPanes-2.2.0\\css\\searchPanes.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\datatable\\SearchPanes-2.2.0\\css\\searchPanes.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchPanes-2.2.0\\css\\searchPanes.bootstrap4.css",
+      "PackagePath": "staticwebassets\\datatable\\SearchPanes-2.2.0\\css\\searchPanes.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchPanes-2.2.0\\css\\searchPanes.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\datatable\\SearchPanes-2.2.0\\css\\searchPanes.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchPanes-2.2.0\\css\\searchPanes.bootstrap5.css",
+      "PackagePath": "staticwebassets\\datatable\\SearchPanes-2.2.0\\css\\searchPanes.bootstrap5.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchPanes-2.2.0\\css\\searchPanes.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\datatable\\SearchPanes-2.2.0\\css\\searchPanes.bootstrap5.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchPanes-2.2.0\\css\\searchPanes.bulma.css",
+      "PackagePath": "staticwebassets\\datatable\\SearchPanes-2.2.0\\css\\searchPanes.bulma.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchPanes-2.2.0\\css\\searchPanes.bulma.min.css",
+      "PackagePath": "staticwebassets\\datatable\\SearchPanes-2.2.0\\css\\searchPanes.bulma.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchPanes-2.2.0\\css\\searchPanes.dataTables.css",
+      "PackagePath": "staticwebassets\\datatable\\SearchPanes-2.2.0\\css\\searchPanes.dataTables.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchPanes-2.2.0\\css\\searchPanes.dataTables.min.css",
+      "PackagePath": "staticwebassets\\datatable\\SearchPanes-2.2.0\\css\\searchPanes.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchPanes-2.2.0\\css\\searchPanes.foundation.css",
+      "PackagePath": "staticwebassets\\datatable\\SearchPanes-2.2.0\\css\\searchPanes.foundation.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchPanes-2.2.0\\css\\searchPanes.foundation.min.css",
+      "PackagePath": "staticwebassets\\datatable\\SearchPanes-2.2.0\\css\\searchPanes.foundation.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchPanes-2.2.0\\css\\searchPanes.jqueryui.css",
+      "PackagePath": "staticwebassets\\datatable\\SearchPanes-2.2.0\\css\\searchPanes.jqueryui.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchPanes-2.2.0\\css\\searchPanes.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\datatable\\SearchPanes-2.2.0\\css\\searchPanes.jqueryui.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchPanes-2.2.0\\css\\searchPanes.semanticui.css",
+      "PackagePath": "staticwebassets\\datatable\\SearchPanes-2.2.0\\css\\searchPanes.semanticui.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchPanes-2.2.0\\css\\searchPanes.semanticui.min.css",
+      "PackagePath": "staticwebassets\\datatable\\SearchPanes-2.2.0\\css\\searchPanes.semanticui.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchPanes-2.2.0\\js\\dataTables.searchPanes.js",
+      "PackagePath": "staticwebassets\\datatable\\SearchPanes-2.2.0\\js\\dataTables.searchPanes.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchPanes-2.2.0\\js\\dataTables.searchPanes.min.js",
+      "PackagePath": "staticwebassets\\datatable\\SearchPanes-2.2.0\\js\\dataTables.searchPanes.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchPanes-2.2.0\\js\\searchPanes.bootstrap.js",
+      "PackagePath": "staticwebassets\\datatable\\SearchPanes-2.2.0\\js\\searchPanes.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchPanes-2.2.0\\js\\searchPanes.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\datatable\\SearchPanes-2.2.0\\js\\searchPanes.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchPanes-2.2.0\\js\\searchPanes.bootstrap4.js",
+      "PackagePath": "staticwebassets\\datatable\\SearchPanes-2.2.0\\js\\searchPanes.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchPanes-2.2.0\\js\\searchPanes.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\datatable\\SearchPanes-2.2.0\\js\\searchPanes.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchPanes-2.2.0\\js\\searchPanes.bootstrap5.js",
+      "PackagePath": "staticwebassets\\datatable\\SearchPanes-2.2.0\\js\\searchPanes.bootstrap5.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchPanes-2.2.0\\js\\searchPanes.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\datatable\\SearchPanes-2.2.0\\js\\searchPanes.bootstrap5.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchPanes-2.2.0\\js\\searchPanes.bulma.js",
+      "PackagePath": "staticwebassets\\datatable\\SearchPanes-2.2.0\\js\\searchPanes.bulma.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchPanes-2.2.0\\js\\searchPanes.bulma.min.js",
+      "PackagePath": "staticwebassets\\datatable\\SearchPanes-2.2.0\\js\\searchPanes.bulma.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchPanes-2.2.0\\js\\searchPanes.dataTables.js",
+      "PackagePath": "staticwebassets\\datatable\\SearchPanes-2.2.0\\js\\searchPanes.dataTables.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchPanes-2.2.0\\js\\searchPanes.dataTables.min.js",
+      "PackagePath": "staticwebassets\\datatable\\SearchPanes-2.2.0\\js\\searchPanes.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchPanes-2.2.0\\js\\searchPanes.foundation.js",
+      "PackagePath": "staticwebassets\\datatable\\SearchPanes-2.2.0\\js\\searchPanes.foundation.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchPanes-2.2.0\\js\\searchPanes.foundation.min.js",
+      "PackagePath": "staticwebassets\\datatable\\SearchPanes-2.2.0\\js\\searchPanes.foundation.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchPanes-2.2.0\\js\\searchPanes.jqueryui.js",
+      "PackagePath": "staticwebassets\\datatable\\SearchPanes-2.2.0\\js\\searchPanes.jqueryui.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchPanes-2.2.0\\js\\searchPanes.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\datatable\\SearchPanes-2.2.0\\js\\searchPanes.jqueryui.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchPanes-2.2.0\\js\\searchPanes.semanticui.js",
+      "PackagePath": "staticwebassets\\datatable\\SearchPanes-2.2.0\\js\\searchPanes.semanticui.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\SearchPanes-2.2.0\\js\\searchPanes.semanticui.min.js",
+      "PackagePath": "staticwebassets\\datatable\\SearchPanes-2.2.0\\js\\searchPanes.semanticui.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Select-1.7.0\\css\\select.bootstrap.css",
+      "PackagePath": "staticwebassets\\datatable\\Select-1.7.0\\css\\select.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Select-1.7.0\\css\\select.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\datatable\\Select-1.7.0\\css\\select.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Select-1.7.0\\css\\select.bootstrap4.css",
+      "PackagePath": "staticwebassets\\datatable\\Select-1.7.0\\css\\select.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Select-1.7.0\\css\\select.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\datatable\\Select-1.7.0\\css\\select.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Select-1.7.0\\css\\select.bootstrap5.css",
+      "PackagePath": "staticwebassets\\datatable\\Select-1.7.0\\css\\select.bootstrap5.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Select-1.7.0\\css\\select.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\datatable\\Select-1.7.0\\css\\select.bootstrap5.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Select-1.7.0\\css\\select.bulma.css",
+      "PackagePath": "staticwebassets\\datatable\\Select-1.7.0\\css\\select.bulma.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Select-1.7.0\\css\\select.bulma.min.css",
+      "PackagePath": "staticwebassets\\datatable\\Select-1.7.0\\css\\select.bulma.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Select-1.7.0\\css\\select.dataTables.css",
+      "PackagePath": "staticwebassets\\datatable\\Select-1.7.0\\css\\select.dataTables.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Select-1.7.0\\css\\select.dataTables.min.css",
+      "PackagePath": "staticwebassets\\datatable\\Select-1.7.0\\css\\select.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Select-1.7.0\\css\\select.foundation.css",
+      "PackagePath": "staticwebassets\\datatable\\Select-1.7.0\\css\\select.foundation.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Select-1.7.0\\css\\select.foundation.min.css",
+      "PackagePath": "staticwebassets\\datatable\\Select-1.7.0\\css\\select.foundation.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Select-1.7.0\\css\\select.jqueryui.css",
+      "PackagePath": "staticwebassets\\datatable\\Select-1.7.0\\css\\select.jqueryui.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Select-1.7.0\\css\\select.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\datatable\\Select-1.7.0\\css\\select.jqueryui.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Select-1.7.0\\css\\select.semanticui.css",
+      "PackagePath": "staticwebassets\\datatable\\Select-1.7.0\\css\\select.semanticui.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Select-1.7.0\\css\\select.semanticui.min.css",
+      "PackagePath": "staticwebassets\\datatable\\Select-1.7.0\\css\\select.semanticui.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Select-1.7.0\\js\\dataTables.select.js",
+      "PackagePath": "staticwebassets\\datatable\\Select-1.7.0\\js\\dataTables.select.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Select-1.7.0\\js\\dataTables.select.min.js",
+      "PackagePath": "staticwebassets\\datatable\\Select-1.7.0\\js\\dataTables.select.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Select-1.7.0\\js\\select.bootstrap.js",
+      "PackagePath": "staticwebassets\\datatable\\Select-1.7.0\\js\\select.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Select-1.7.0\\js\\select.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\datatable\\Select-1.7.0\\js\\select.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Select-1.7.0\\js\\select.bootstrap4.js",
+      "PackagePath": "staticwebassets\\datatable\\Select-1.7.0\\js\\select.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Select-1.7.0\\js\\select.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\datatable\\Select-1.7.0\\js\\select.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Select-1.7.0\\js\\select.bootstrap5.js",
+      "PackagePath": "staticwebassets\\datatable\\Select-1.7.0\\js\\select.bootstrap5.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Select-1.7.0\\js\\select.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\datatable\\Select-1.7.0\\js\\select.bootstrap5.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Select-1.7.0\\js\\select.bulma.js",
+      "PackagePath": "staticwebassets\\datatable\\Select-1.7.0\\js\\select.bulma.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Select-1.7.0\\js\\select.bulma.min.js",
+      "PackagePath": "staticwebassets\\datatable\\Select-1.7.0\\js\\select.bulma.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Select-1.7.0\\js\\select.dataTables.js",
+      "PackagePath": "staticwebassets\\datatable\\Select-1.7.0\\js\\select.dataTables.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Select-1.7.0\\js\\select.dataTables.min.js",
+      "PackagePath": "staticwebassets\\datatable\\Select-1.7.0\\js\\select.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Select-1.7.0\\js\\select.foundation.js",
+      "PackagePath": "staticwebassets\\datatable\\Select-1.7.0\\js\\select.foundation.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Select-1.7.0\\js\\select.foundation.min.js",
+      "PackagePath": "staticwebassets\\datatable\\Select-1.7.0\\js\\select.foundation.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Select-1.7.0\\js\\select.jqueryui.js",
+      "PackagePath": "staticwebassets\\datatable\\Select-1.7.0\\js\\select.jqueryui.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Select-1.7.0\\js\\select.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\datatable\\Select-1.7.0\\js\\select.jqueryui.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Select-1.7.0\\js\\select.semanticui.js",
+      "PackagePath": "staticwebassets\\datatable\\Select-1.7.0\\js\\select.semanticui.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\Select-1.7.0\\js\\select.semanticui.min.js",
+      "PackagePath": "staticwebassets\\datatable\\Select-1.7.0\\js\\select.semanticui.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\datatables.css",
+      "PackagePath": "staticwebassets\\datatable\\datatables.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\datatables.js",
+      "PackagePath": "staticwebassets\\datatable\\datatables.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\datatables.min.css",
+      "PackagePath": "staticwebassets\\datatable\\datatables.min.css"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\datatables.min.js",
+      "PackagePath": "staticwebassets\\datatable\\datatables.min.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\jQuery-3.7.0\\jquery-3.7.0.js",
+      "PackagePath": "staticwebassets\\datatable\\jQuery-3.7.0\\jquery-3.7.0.js"
+    },
+    {
+      "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\datatable\\jQuery-3.7.0\\jquery-3.7.0.min.js",
+      "PackagePath": "staticwebassets\\datatable\\jQuery-3.7.0\\jquery-3.7.0.min.js"
     },
     {
       "Id": "C:\\Docs\\Apps\\AlamalCharity\\AlamalCharity\\wwwroot\\dest\\style.css",

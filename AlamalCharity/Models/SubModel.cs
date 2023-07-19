@@ -7,7 +7,7 @@ namespace AlamalCharity.Models
         public int subID { get; set; }
         public int subClientID { get; set; }
         public string subClientName { get; set; }
-        public List<SelectListItem> Clients { get; set; }
+        public List<CLientModel> Clients { get; set; }
         public int subYear { get; set; }
         public List<SelectListItem> Years { get; set; }
         public int subJAN { get; set; }

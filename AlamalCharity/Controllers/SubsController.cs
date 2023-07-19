@@ -27,6 +27,7 @@ namespace AlamalCharity.Controllers
                 ViewBag.Page = "ألإشتراكات";
 
                 SubscriptionsList model = new SubscriptionsList();
+                model.SubsList = new List<SubModel>();
                 var query = context.Subscriptions
                     .Join(context.Clients, s => s.CLNT_ID, c => c.ID, (s, c) => new { 
                         s.ID, c.CLIENT_NAME, s.YEAR, s.JAN, s.FEB, s.MAR, s.APR, s.MAY,
@@ -69,7 +70,7 @@ namespace AlamalCharity.Controllers
             using (context)
             {
                 SubModel model = new SubModel();
-                model.Clients = new List<SelectListItem>();
+                model.Clients = new List<CLientModel>();
                 model.Years = new List<SelectListItem>();
 
                 var newID = context.Subscriptions.OrderByDescending(c => c.ID).FirstOrDefault();
@@ -83,11 +84,13 @@ namespace AlamalCharity.Controllers
                 {
                     foreach (var cnt in query)
                     {
-                        var itm = new SelectListItem();
-                        itm.Value = cnt.ID.ToString();
-                        itm.Text = cnt.CLIENT_NAME;
 
-                        model.Clients.Add(itm);
+                        CLientModel cm = new CLientModel();
+                        cm.clntID = cnt.ID;
+                        cm.clntName = cnt.CLIENT_NAME;
+                        cm.clntStatus = cnt.STATUS;
+
+                        model.Clients.Add(cm);
                     }
                 }
 
