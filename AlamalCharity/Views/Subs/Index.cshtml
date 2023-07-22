@@ -12,66 +12,92 @@
                 <i class="fa fa-align-justify"></i> إشتراكات الأعضاء
             </div>
             <div class="card-block">
-                <input type="button" class="btn btn-primary" style="float:left;margin-bottom:5px;" value="دفع " onclick="showInPopup('@Url.Action("PaySubs", "Subs")')">
-                <table class="table table-bordered table-striped table-condensed" style="font-family:Calibri;">
-                    <thead>
-                        <tr>
-                            <th>م</th>
-                            <th>إسم العضو</th>
-                            <th>السنة</th>
-                            <th>يناير</th>
-                            <th>فبراير</th>
-                            <th>مارس</th>
-                            <th>ابريل</th>
-                            <th>مايو</th>
-                            <th>يونيو</th>
-                            <th>يوليو</th>
-                            <th>اغسطس</th>
-                            <th>سبتمبر</th>
-                            <th>اكتوبر</th>
-                            <th>نوفمبر</th>
-                            <th>ديسمبر</th>
-                            <th>ألإجمالي</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        @if (Model != null)
-                        {
-                            if (Model.SubsList != null)
-                            {
-                                @foreach (var item in Model.SubsList)
-                                {
+                <div class="row" style="padding:15px;">
+                    <form asp-controller="Subs" asp-action="Index" method="post" class="form-horizontal ">
+                        <div class="form-group row">
+                            <label class="col-md-1 form-control-label" for="hf-email" style="font-size:medium;font-weight:600;">بحث</label>
+                            <div class="col-md-5">
+                                <input type="text" name="txt" class="form-control" style="font-family:Calibri;" value="@ViewBag.Search">
+                            </div>
+                            <div class="col-md-2">
+                                <input type="submit" class="btn btn-primary form-control" value="بحث ">
+                            </div>
+                            <div class="col-md-1">
+                                <a type="button" class="btn btn-link form-control" asp-controller="Subs" asp-action="Index">عرض الكل</a>
+                            </div>
+                            <div class="col-md-1">
+
+                            </div>
+                            <div class="col-md-2">
+                                <input type="button" class="btn btn-primary form-control col-md-12" value="دفع إشتراك" onclick="location.href='@Url.Action("Collect", "Subs" )'" />
+                            </div>
+
+                        </div>
+
+                        <div class="form-group" style="overflow-x:auto;">
+                            <table class="table table-bordered table-striped table-condensed">
+                                <thead>
                                     <tr>
-                                        <td>@item.subID</td>
-                                        <td>@item.subClientName</td>
-                                        <td>@item.subYear</td>
-                                        <td>@item.subJAN</td>
-                                        <td>@item.subFEB</td>
-                                        <td>@item.subMAR</td>
-                                        <td>@item.subAPR</td>
-                                        <td>@item.subMAY</td>
-                                        <td>@item.subJUN</td>
-                                        <td>@item.subJUL</td>
-                                        <td>@item.subAUG</td>
-                                        <td>@item.subSEP</td>
-                                        <td>@item.subOCT</td>
-                                        <td>@item.subNOV</td>
-                                        <td>@item.subDEC</td>
-                                        @if (item.subTotal > 0)
-                                        {
-                                            <td><span class="tag tag-success">@item.subTotal</span></td>
-                                        }
-                                        else
-                                        {
-                                            <td><span class="tag tag-danger">0</span></td>
-                                        }
-                                        
+                                        <th>م</th>
+                                        <th>إسم العضو</th>
+                                        <th>السنة</th>
+                                        <th>يناير</th>
+                                        <th>فبراير</th>
+                                        <th>مارس</th>
+                                        <th>ابريل</th>
+                                        <th>مايو</th>
+                                        <th>يونيو</th>
+                                        <th>يوليو</th>
+                                        <th>اغسطس</th>
+                                        <th>سبتمبر</th>
+                                        <th>اكتوبر</th>
+                                        <th>نوفمبر</th>
+                                        <th>ديسمبر</th>
+                                        <th>ألإجمالي</th>
                                     </tr>
-                                }
-                            }
-                        }
-                    </tbody>
-                </table>
+                                </thead>
+                                <tbody>
+                                    @if (Model != null)
+                                    {
+                                        if (Model.SubsList != null)
+                                        {
+                                            @foreach (var item in Model.SubsList)
+                                            {
+                                                <tr>
+                                                    <td>@item.subID</td>
+                                                    <td>@item.subClientName</td>
+                                                    <td>@item.subYear</td>
+                                                    <td>@item.subJAN</td>
+                                                    <td>@item.subFEB</td>
+                                                    <td>@item.subMAR</td>
+                                                    <td>@item.subAPR</td>
+                                                    <td>@item.subMAY</td>
+                                                    <td>@item.subJUN</td>
+                                                    <td>@item.subJUL</td>
+                                                    <td>@item.subAUG</td>
+                                                    <td>@item.subSEP</td>
+                                                    <td>@item.subOCT</td>
+                                                    <td>@item.subNOV</td>
+                                                    <td>@item.subDEC</td>
+                                                    @if (item.subTotal > 0)
+                                                    {
+                                                        <td><span class="tag tag-success">@item.subTotal</span></td>
+                                                    }
+                                                    else
+                                                    {
+                                                        <td><span class="tag tag-danger">0</span></td>
+                                                    }
+
+                                                </tr>
+                                            }
+                                        }
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </form>
+                </div>
+                @**@
             </div>
         </div>
     </div>

@@ -7,9 +7,11 @@ using AlamalCharity.Data;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using System.Runtime.CompilerServices;
 using AlamalCharity.Data.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace AlamalCharity.Controllers
 {
+    [Authorize]
     public class ClientsController : Controller
     {
         private readonly AppDBContext context;
@@ -61,6 +63,52 @@ namespace AlamalCharity.Controllers
             }
         }
 
+        [HttpPost]
+        public IActionResult Index(string txt)
+        {
+            using (context)
+            {
+                ViewBag.Dept = "إدارة الأعضاء";
+                ViewBag.Page = "بيانات الأعضاء";
+                ViewBag.Search = txt;
+
+                ClientsList model = new ClientsList();
+                var cLients = new List<CLientModel>();
+
+                var query = context.Clients.Join(context.Families, c => c.CLIENT_FAMILY, f => f.ID, (c, f) => new
+                {
+                    ID = c.ID,
+                    CLIENT_NAME = c.CLIENT_NAME,
+                    CLIENT_FAMILY = f.FAMILY_NAME,
+                    CLIENT_MOBILE = c.CLIENT_MOBILE,
+                    ADD_DATE = c.ADD_DATE,
+                    STATUS = c.STATUS
+
+                }).ToList();
+
+                if (query != null)
+                {
+                    query = query.Where(x => x.CLIENT_NAME.Contains(txt) || x.CLIENT_MOBILE.Contains(txt)).ToList();
+                    foreach (var item in query)
+                    {
+                        CLientModel cLient = new CLientModel();
+                        cLient.clntID = item.ID;
+                        cLient.clntName = item.CLIENT_NAME;
+                        cLient.clntFamilyValue = item.CLIENT_FAMILY;
+                        cLient.clntMobile = item.CLIENT_MOBILE;
+                        cLient.clntAddDate = item.ADD_DATE;
+                        cLient.clntStatus = item.STATUS;
+
+                        cLients.Add(cLient);
+                    }
+
+                    model.Clients = cLients;
+                }
+
+                return View(model);
+            }
+        }
+
         public IActionResult Families()
         {
             using (context)
@@ -74,6 +122,40 @@ namespace AlamalCharity.Controllers
                 var fquery = context.Families.ToList();
                 if (fquery != null)
                 {
+                    foreach (var item in fquery)
+                    {
+                        FamilyModel f = new FamilyModel();
+                        f.fmID = item.ID;
+                        f.fmName = item.FAMILY_NAME;
+                        f.fmAddDate = item.ADD_DATE;
+                        f.fmStatus = item.STATUS;
+
+                        fams.Add(f);
+                    }
+
+                    model.Families = fams;
+                }
+
+                return View(model);
+            }
+        }
+
+        [HttpPost]
+        public IActionResult Families(string txt)
+        {
+            using (context)
+            {
+                ViewBag.Dept = "إدارة الأعضاء";
+                ViewBag.Page = "ألعائلات";
+                ViewBag.Search = txt;
+
+                FamiliesList model = new FamiliesList();
+                var fams = new List<FamilyModel>();
+
+                var fquery = context.Families.ToList();
+                if (fquery != null)
+                {
+                    fquery = fquery.Where(x => x.FAMILY_NAME.Contains(txt)).ToList();
                     foreach (var item in fquery)
                     {
                         FamilyModel f = new FamilyModel();
@@ -179,7 +261,7 @@ namespace AlamalCharity.Controllers
                     cLient.Families = famItems;
                 }
 
-                return RedirectToAction("Index", "Clients");
+                return View(cLient);
             }
         }
 
@@ -208,7 +290,7 @@ namespace AlamalCharity.Controllers
             using(context)
             {
                 FamilyModel fam = new FamilyModel();
-                var fm = context.Families.OrderByDescending(f => f.ID).First();
+                var fm = context.Families.OrderByDescending(f => f.ID).FirstOrDefault();
                 if (fm != null)
                     fam.fmID = fm.ID + 1;
                 else

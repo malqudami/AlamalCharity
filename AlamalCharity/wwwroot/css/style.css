@@ -236,7 +236,8 @@ textarea {
     border: 1px solid #000; }
 
   .table {
-    border-collapse: collapse !important; }
+    border-collapse: collapse !important; 
+  }
     .table td,
     .table th {
       background-color: #fff !important; }
@@ -1447,9 +1448,10 @@ pre {
   .offset-xl-11 {
     margin-left: 91.66667%; } }
 .table {
-  width: 100%;
-  max-width: 100%;
-  margin-bottom: 1rem; }
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 1rem;
+}
   .table th,
   .table td {
     padding: 0.75rem;

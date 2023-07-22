@@ -1,11 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\AlamalCharity",
-    "\\AlamalCharity\\Controllers",
-    "\\AlamalCharity\\Views",
-    "\\AlamalCharity\\Views\\Clients"
+    ""
   ],
-  "SelectedNode": "\\AlamalCharity\\Views\\Clients\\AddClient.cshtml",
   "PreviewInSolutionExplorer": false
 }

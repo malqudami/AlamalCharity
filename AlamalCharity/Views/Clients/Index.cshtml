@@ -12,52 +12,73 @@
                 <i class="fa fa-align-justify"></i> أعضاء الجمعية
             </div>
             <div class="card-block">
-                <input type="button" class="btn btn-primary" style="float:left;margin-bottom:5px;" value="إضافة " onclick="showInPopup('@Url.Action("AddClient", "Clients")')">
-                <table class="table table-bordered table-striped table-condensed" style="font-family:Calibri;">
-                    <thead>
-                        <tr>
-                            <th>رقم العضو</th>
-                            <th>إسم العضو</th>
-                            <th>العائلة</th>
-                            <th>رقم الجوال</th>
-                            <th>تاريخ الإضافة</th>
-                            <th>الحالة</th>
-                            <th></th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        @if (Model != null)
-                        {
-                            if (Model.Clients != null)
-                            {
-                                @foreach (var item in Model.Clients)
-                                {
-                                    <tr>
-                                        <td>@item.clntID</td>
-                                        <td>@item.clntName</td>
-                                        <td>@item.clntFamilyValue</td>
-                                        <td>@item.clntMobile</td>
-                                        <td>@item.clntAddDate</td>
-                                        @if (item.clntStatus == 1)
-                                        {
-                                            <td><span class="tag tag-success">مفعل</span></td>
-                                        }
-                                        else
-                                        {
-                                            <td><span class="tag tag-danger">غير مفعل</span></td>
-                                        }
-                                        <td><input type="button" class="btn-info" value="تعديل " onclick="showInPopup('@Url.Action("UpdateClient", "Clients", new { ID = item.clntID})')"></td>
+                <form asp-controller="Clients" asp-action="Index" method="post" class="form-horizontal ">
+                    <div class="form-group row">
+                        <label class="col-md-1 form-control-label" for="hf-email" style="font-size:medium;font-weight:600;">بحث</label>
+                        <div class="col-md-5">
+                            <input type="text" name="txt" class="form-control" style="font-family:Calibri;" value="@ViewBag.Search">
+                        </div>
+                        <div class="col-md-2">
+                            <input type="submit" class="btn btn-primary form-control" value="بحث">
+                        </div>
+                        <div class="col-md-1">
+                            <a type="button" class="btn btn-link form-control" asp-controller="Clients" asp-action="Index">عرض الكل</a>
+                        </div>
+                        <div class="col-md-1">
+                            
+                        </div>
+                        <div class="col-md-2">
+                            <input type="button" class="btn btn-primary form-control col-md-12" value="إضافة عضو" onclick="showInPopup('@Url.Action("AddClient", "Clients")')">
+                        </div>
+                    </div>
 
-                                    </tr>
+                    <div class="form-group" style="overflow-x:auto;">
+                        <table class="table table-bordered table-striped table-condensed" style="font-family:Calibri;">
+                            <thead>
+                                <tr>
+                                    <th>رقم العضو</th>
+                                    <th>إسم العضو</th>
+                                    <th>العائلة</th>
+                                    <th>رقم الجوال</th>
+                                    <th>تاريخ الإضافة</th>
+                                    <th>الحالة</th>
+                                    <th></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @if (Model != null)
+                                {
+                                    if (Model.Clients != null)
+                                    {
+                                        @foreach (var item in Model.Clients)
+                                        {
+                                            <tr>
+                                                <td>@item.clntID</td>
+                                                <td>@item.clntName</td>
+                                                <td>@item.clntFamilyValue</td>
+                                                <td>@item.clntMobile</td>
+                                                <td>@item.clntAddDate</td>
+                                                @if (item.clntStatus == 1)
+                                                {
+                                                    <td><span class="tag tag-success">مفعل</span></td>
+                                                }
+                                                else
+                                                {
+                                                    <td><span class="tag tag-danger">غير مفعل</span></td>
+                                                }
+                                                <td><input type="button" class="btn-info" value="تعديل " onclick="showInPopup('@Url.Action("UpdateClient", "Clients", new { ID = item.clntID})')"></td>
+
+                                            </tr>
+                                        }
+                                    }
                                 }
-                            }
-                        }
-                    </tbody>
-                </table>
+                            </tbody>
+                        </table>
+                    </div>
+                </form>
             </div>
         </div>
     </div>
-
 </div>
 
 <script type="text/javascript">

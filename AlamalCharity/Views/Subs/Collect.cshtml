@@ -1,19 +1,18 @@
-﻿@model AlamalCharity.Models.FamiliesList;
+﻿@model AlamalCharity.Models.ClientsList;
 @{
     Layout = "~/Views/Shared/_layout.cshtml";
 }
 
 <div class="row">
 
-    @*Families*@
+    @*Clients*@
     <div class="col-lg-12">
         <div class="card">
             <div class="card-header">
-                <i class="fa fa-align-justify"></i> ألعائلات
+                <i class="fa fa-align-justify"></i> أعضاء الجمعية
             </div>
-
             <div class="card-block">
-                <form asp-controller="Clients" asp-action="Families" method="post" class="form-horizontal ">
+                <form asp-controller="Subs" asp-action="Collect" method="post" class="form-horizontal ">
                     <div class="form-group row">
                         <label class="col-md-1 form-control-label" for="hf-email" style="font-size:medium;font-weight:600;">بحث</label>
                         <div class="col-md-5">
@@ -23,20 +22,20 @@
                             <input type="submit" class="btn btn-primary form-control" value="بحث">
                         </div>
                         <div class="col-md-1">
-                            <a type="button" class="btn btn-link form-control" asp-controller="Clients" asp-action="Families">عرض الكل</a>
+                            <a type="button" class="btn btn-link form-control" asp-controller="Subs" asp-action="Collect">عرض الكل</a>
                         </div>
                         <div class="col-md-1">
                         </div>
-                        <div class="col-md-2">
-                            <input type="button" class="btn btn-primary form-control col-md-12" value="إضافة" onclick="showInPopup('@Url.Action("AddFamily", "Clients")')">
-                        </div>
                     </div>
+
                     <div class="form-group" style="overflow-x:auto;">
                         <table class="table table-bordered table-striped table-condensed" style="font-family:Calibri;">
                             <thead>
                                 <tr>
-                                    <th>م</th>
+                                    <th>رقم العضو</th>
+                                    <th>إسم العضو</th>
                                     <th>العائلة</th>
+                                    <th>رقم الجوال</th>
                                     <th>تاريخ الإضافة</th>
                                     <th>الحالة</th>
                                     <th></th>
@@ -45,15 +44,17 @@
                             <tbody>
                                 @if (Model != null)
                                 {
-                                    if (Model.Families != null)
+                                    if (Model.Clients != null)
                                     {
-                                        @foreach (var item in Model.Families)
+                                        @foreach (var item in Model.Clients)
                                         {
                                             <tr>
-                                                <td>@item.fmID</td>
-                                                <td>@item.fmName</td>
-                                                <td>@item.fmAddDate</td>
-                                                @if (item.fmStatus == 1)
+                                                <td>@item.clntID</td>
+                                                <td>@item.clntName</td>
+                                                <td>@item.clntFamilyValue</td>
+                                                <td>@item.clntMobile</td>
+                                                <td>@item.clntAddDate</td>
+                                                @if (item.clntStatus == 1)
                                                 {
                                                     <td><span class="tag tag-success">مفعل</span></td>
                                                 }
@@ -61,7 +62,7 @@
                                                 {
                                                     <td><span class="tag tag-danger">غير مفعل</span></td>
                                                 }
-                                                <td><input type="button" class="btn-info" value="تعديل " onclick="showInPopup('@Url.Action("UpdateFamily", "Clients", new {ID = item.fmID })')"></td>
+                                                <td><input type="button" class="btn-info" value="تحصيل" onclick="showInPopup('@Url.Action("PaySubs", "Subs", new { ID = item.clntID, Name = item.clntName })')"></td>
 
                                             </tr>
                                         }
